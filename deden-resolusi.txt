@@ -1,0 +1,5 @@
+Deden Resolusi
+- Konsisten belajar front-end 
+- HTML
+- CSS 
+- Javascript
