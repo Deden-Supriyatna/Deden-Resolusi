@@ -3,3 +3,7 @@ Deden Resolusi
 - HTML
 - CSS 
 - Javascript
+- Framework CSS
+- Framework Javascript
+  - React.js
+  - Vue.js
